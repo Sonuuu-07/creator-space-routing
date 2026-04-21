@@ -1,8 +1,4 @@
-import React from "react";
-
 function Dashboard() {
-  // TODO: Dashboard content
-  return <h2>Dashboard Page</h2>;
+  return <h1>Dashboard Page</h1>;
 }
-
 export default Dashboard;
